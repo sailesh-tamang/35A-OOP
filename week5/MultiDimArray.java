@@ -26,6 +26,25 @@ public class MultiDimArray {
         //access value the same way
         int arrayValue = twoDArray[0][0];
         System.out.println((twoDArray[0][1]));
+
+        /*task
+         * [
+         * [10,20]
+         * [30,40]
+         * [50,60]
+         * [70,80]
+         * [-10,-20]
+         * ]
+         */
+
+        int[][] twoDArrayValue = {
+            {10,20},
+            {30,40},
+            {50,60},
+            {70,80},
+            {-10,-20}
+
+        };
         
     }
     
